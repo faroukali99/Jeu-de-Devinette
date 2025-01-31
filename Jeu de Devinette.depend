@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1738338007 source:c:\exoc\jeu de devinette\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"pseudo.h"
+	"session.h"
+	"statistiques.h"
+
+1736527500 c:\exoc\jeu de devinette\pseudo.h
+
+1736527544 c:\exoc\jeu de devinette\session.h
+
+1736527588 c:\exoc\jeu de devinette\statistiques.h
+
+1736527640 source:c:\exoc\jeu de devinette\pseudo.c
+	<stdio.h>
+	<string.h>
+	"pseudo.h"
+
+1736527684 source:c:\exoc\jeu de devinette\session.c
+	<stdio.h>
+	<time.h>
+	"session.h"
+
+1736527736 source:c:\exoc\jeu de devinette\statistiques.c
+	<math.h>
+	"statistiques.h"
+
